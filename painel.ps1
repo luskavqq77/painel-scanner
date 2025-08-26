@@ -177,5 +177,3 @@ function sendLog($mensagem) {
         Write-Host "Erro ao enviar log para Webhook." -ForegroundColor Red
     }
 }
-
-M
